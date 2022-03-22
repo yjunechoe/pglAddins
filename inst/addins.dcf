@@ -1,0 +1,4 @@
+Name: Flip slashs
+Description: Flips the direction of slashes
+Binding: flip_slashes
+Interactive: false
